@@ -1,1 +1,3 @@
-
+remote_theme: startbootstrap/jekyll-theme-freelancer
+plugins:
+  - jekyll-remote-theme
